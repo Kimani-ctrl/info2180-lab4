@@ -1,0 +1,16 @@
+h1{
+    background-color: violet;
+    justify-content: center;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    grid-column: 2;
+}
+input{
+    width: 500px;
+    height: 20px;
+}
+form{
+    display: flex;
+    align-items: center;
+}
